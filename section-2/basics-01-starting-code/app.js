@@ -1,4 +1,3 @@
-console.log(Vue)
 const app = Vue.createApp({
     data() {
         return {
